@@ -7,17 +7,13 @@ p {
   border: 1px solid salmon;
 }
 
-header { 
+header {
   font-weight: bold;
   color: pink;
   font-size: 90px;
 }
-h1 {
-  color: navy;
-}
-
-h3{
-  color: navy;
+h1, h3 {
+  color: purple;
 }
 
 li {
@@ -28,4 +24,3 @@ li {
 address {
   color: pink;
 }
-
