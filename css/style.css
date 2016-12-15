@@ -1,0 +1,31 @@
+p {
+  font-weight: bold;
+  color: hotpink;
+}
+
+.employment {
+  border: 1px solid salmon;
+}
+
+header { 
+  font-weight: bold;
+  color: pink;
+  font-size: 90px;
+}
+h1 {
+  color: navy;
+}
+
+h3{
+  color: navy;
+}
+
+li {
+  color: lightblue;
+  font-weight: bold;
+}
+
+address {
+  color: pink;
+}
+
